@@ -54,3 +54,6 @@ htmlcov/
 
 # VSCode
 .vscode/
+
+# Add .env to the .gitignore file to prevent it from being tracked by git
+.env
